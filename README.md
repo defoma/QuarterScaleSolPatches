@@ -6,10 +6,10 @@ None yet
 
 ## Work-in-progress
 * Fixed KSCSwitcher configs
-*   Sohae, Cape Canaveral, Vandenberg, and Wallops are broken
+  * Sohae, Cape Canaveral, Vandenberg, and Wallops are broken
 
 ## Future
 * Fixed orbit heights
-*   Primarily the space high above Earth border
+  * Primarily the space high above Earth border
 * Fixed ZTheme loading screen system
-*   Using RSS preset in ZTheme
+  *   Using RSS preset in ZTheme
