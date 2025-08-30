@@ -13,3 +13,6 @@ None yet
   * Primarily the space high above Earth border
 * Fixed ZTheme loading screen system
   *   Using RSS preset in ZTheme
+
+## Installation
+* Click the `<> Code` drop down menu and select `Download Zip`. Navigate to `QuarterScaleSolPatches-main.zip/GameData` and drag `QuarterScaleSolPatches` into `Kerbal Space Program/GamemData`.
