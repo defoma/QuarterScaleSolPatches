@@ -15,4 +15,4 @@ None yet
   *   Using RSS preset in ZTheme
 
 ## Installation
-* Click the `<> Code` drop down menu and select `Download Zip`. Navigate to `QuarterScaleSolPatches-main.zip/GameData` and drag `QuarterScaleSolPatches` into `Kerbal Space Program/GameData`.
+* Click the `<> Code` drop-down menu and select `Download Zip`. Navigate to `QuarterScaleSolPatches-main.zip/GameData` and drag `QuarterScaleSolPatches` into `Kerbal Space Program/GameData`.
