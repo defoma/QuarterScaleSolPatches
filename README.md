@@ -1,3 +1,5 @@
+# !! WARNING !! THIS MOD ONLY WORKS FOR SOL 0.6, UPDATES FOR 0.7 INCOMING !! WARNING !!
+
 # QuarterScaleSolPatches
 _Patches for the quarter-scale size of the Sol mod by ballisticfox for Kerbal Space Program._
 
